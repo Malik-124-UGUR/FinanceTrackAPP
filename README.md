@@ -14,7 +14,8 @@ FinanceTrackAPP is a simple financial tracking application that helps you manage
 ### Build It Yourself
 
 Requirements:
-- [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
+- [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
 - [Visual Studio](https://visualstudio.microsoft.com/)
 
 Steps:
